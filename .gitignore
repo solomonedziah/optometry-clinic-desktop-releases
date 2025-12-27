@@ -1,1 +1,9 @@
-.venv/
+# Ignore everything by default
+*
+
+# Allow only these files
+!.gitignore
+!README.md
+!OptometryClinicSetup.exe
+!.github/
+!.github/**
